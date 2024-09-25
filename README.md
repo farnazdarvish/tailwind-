@@ -1,6 +1,6 @@
 # tailwind-
 
-![1](https://github.com/user-attachments/assets/a30b66c2-2a37-430d-8bb0-dd30a3b2336e)
+![1](https://github.com/user-attachments/assets/a6302ae8-6f35-45f5-9360-43295ce37e43)
 
 - [Demo Project](https://farnazdarvish.github.io/tailwind-/)
 
